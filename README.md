@@ -1,5 +1,5 @@
 # edabk_genderDetection
-Detect gender through a voice
+Detect gender through a voice.
 
 - !!! Download dataset at: (valid-12/04/2020)
 	https://www.kaggle.com/mozillaorg/common-voice/home
