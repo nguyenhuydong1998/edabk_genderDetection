@@ -10,11 +10,11 @@
 
 	+ test_pitchDetection_2000.m: Short test with 2.000 samples.
 	
-	+ label_2000: Label of 2.000 samples.
+	+ label_2000.txt: Label of 2.000 samples.
 
-	+ label_all: Label of 74.546 samples.
+	+ label_all.txt: Label of 74.546 samples.
 
-- Open one of the files above on matlab to Debug.
+- Open one of the m-files above on matlab to Debug.
 - "Editor-> Run" or press "F5"  to Debug.
 
 
