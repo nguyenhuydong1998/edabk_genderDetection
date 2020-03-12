@@ -9,6 +9,10 @@
 	+ test_pitchDetection.m: Test the precision of "pitchDetection.m" with 74.546  gender labeled samples.
 
 	+ test_pitchDetection_2000.m: Short test with 2.000 samples.
+	
+	+ label_2000: Label of 2.000 samples.
+
+	+ label_all: Label of 74.546 samples.
 
 - Open one of the files above on matlab to Debug.
 - "Editor-> Run" or press "F5"  to Debug.
